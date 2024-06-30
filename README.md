@@ -1,2 +1,2 @@
 # rsshool-cv
-https://pr1nceska.github.io/rsshool-cv/cv
+https://pr1nceska.github.io/rsschool-cv/cv
